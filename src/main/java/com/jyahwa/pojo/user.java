@@ -11,5 +11,6 @@ public class user {
     private Integer id;
     private String name;
     private Double salary;
+    private String university;
     private String address;
 }
